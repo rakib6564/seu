@@ -1,0 +1,72 @@
+body{
+
+background-image: url(../img/pexels-veeterzy-303383.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+}
+.container{
+
+width: 650px;
+margin: 10% auto;
+
+
+}
+.login-section{
+
+}
+
+.login-section h2{
+
+        text-align: center;
+        text-transform: capitalize;
+        font-family: 'Kanit', sans-serif;
+        font-weight: 400;
+        font-size: 58px;
+        color: white;
+        margin-bottom: 55px;
+        -webkit-text-stroke: 0.5px #ffffff;
+}
+
+
+.form-control{
+
+    width: 55%;
+    height: 20px;
+    margin: 0px auto 12px;
+    display: block;
+    border-radius: 9px;
+    text-align: center;
+     -webkit-transition: 0.2s ease-in-out;
+
+
+}
+.form-btn {
+    background-color: cornflowerblue;
+    color: rgb(255, 255, 255);
+    width: 55%;
+    height: 30px;
+    margin: 0px auto 12px;
+    display: block;
+    border-radius: 9px;
+    text-align: center;
+     -webkit-transition: 0.2s ease-in-out;
+
+    
+ 
+ }
+ .form-btn:hover{
+
+    cursor: pointer;
+    box-shadow: 0px 0px 20px rgb(146, 156, 250);
+ } 
+.abc{
+text-decoration: none;
+font-size: 20px;
+color: rgb(248, 248, 248);
+text-align: center;
+display: block;
+
+}
